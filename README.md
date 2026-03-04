@@ -1,4 +1,3 @@
-```markdown
 # 🎓 GADO IT15 Enrollment System
 
 **University of Mindanao – Tagum Campus**  
@@ -221,5 +220,6 @@ University of Mindanao
 Tagum College  
 Web Systems and Technologies
 ```
+
 
 
