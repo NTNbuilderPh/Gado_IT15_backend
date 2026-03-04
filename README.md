@@ -5,26 +5,6 @@
 Academic Portal & Enrollment System  
 Course: Web Systems and Technologies (IT15)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
-  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2+">
-  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8">
-  <img src="https://img.shields.io/badge/Sanctum-API%20Auth-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Sanctum">
-  <img src="https://img.shields.io/badge/license-Academic-green?style=for-the-badge" alt="License">
-</p>
-
-<p align="center">
-  Full-stack university enrollment & academic portal built for <strong>IT15</strong> — featuring responsive UI, RESTful API, dual authentication, business rule enforcement, and UM maroon branding.
-</p>
-
-<p align="center">
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-api">API</a> •
-  <a href="#-demo-accounts">Demo</a>
-</p>
-
 ---
 
 ## ✨ Highlights
@@ -93,36 +73,6 @@ Login with demo accounts → see [Demo Accounts](#-demo-accounts)
 - Course capacity limit (lockForUpdate + transaction)
 - No duplicate enrollment (pivot check + unique constraint)
 - Only `open` courses can be enrolled
-
----
-
-## 🖼️ Screenshots
-
-### Landing & Login
-
-<!-- Replace with real image paths or upload to repo /screenshots folder -->
-
-<p align="center">
-  <img src="screenshots/landing.png" width="48%" alt="Landing page">
-  <img src="screenshots/login.png"   width="48%" alt="Login page">
-</p>
-
-### Dashboard & Enrollment
-
-<p align="center">
-  <img src="screenshots/dashboard.png" width="48%" alt="Student Dashboard">
-  <img src="screenshots/enrollment.png" width="48%" alt="Course Enrollment">
-</p>
-
-### Grades • Attendance • Finance
-
-<p align="center">
-  <img src="screenshots/grades.png"    width="32%" alt="Grades">
-  <img src="screenshots/attendance.png" width="32%" alt="Attendance">
-  <img src="screenshots/finance.png"   width="32%" alt="Finance">
-</p>
-
-> Tip: Create a `/screenshots` folder in your repo and place optimized images there (PNG or WebP, < 300 KB each).
 
 ---
 
@@ -271,4 +221,5 @@ University of Mindanao
 Tagum College  
 Web Systems and Technologies
 ```
+
 
